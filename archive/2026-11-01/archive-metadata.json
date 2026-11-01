@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-01",
+  "purpose": "Retain relevant pilot code and evidence before uninstalling the local environment",
+  "visibility": "private",
+  "source_content_included": false,
+  "raw_conversations_included": false,
+  "excluded": [
+    "virtual environment",
+    "package/model/tokenizer caches",
+    "vault corpus copy",
+    "candidate excerpts",
+    "conversation excerpts and provenance logs",
+    "temporary review scripts"
+  ],
+  "included": [
+    "portable Python comparison code",
+    "locked dependencies",
+    "metrics tests",
+    "preregistered protocol",
+    "sanitized 20-query labels",
+    "corpus hashes",
+    "original measurements without local model path",
+    "report and resumption instructions"
+  ],
+  "original_file_sha256": {
+    "pilot.py": "22cbb5f7441b7d947fd9afa94f207fb64559f1132fe4d02c59b1f425398acbfc",
+    "bootstrap.py": "cc3ff27bef41d797fb54742c352acab78e0fa7604d8f2d4f394d9c7a673c7c73",
+    "PROTOCOL.md": "38fca098f42891ded1baf84a4eecf70b0a2365e61f10f410f90a95f589c01f15",
+    "uv.lock": "1b28f8b4d1594a0b77b46ea907c8bc5f9dbf0f292e87a9a4cbc10194b614d454",
+    "data/queries.json": "ff6315d66429c2697ac2f87e41b75f4af845f99bed2bf402d41d2e2e619fe874",
+    "results/evaluation.json": "dd044d1cadc4fcacfb1b87e43e7124dab9ddc834931f0e48259bad6f8dd256a6"
+  },
+  "portability_changes": [
+    "Resolve the checkout root from the script location",
+    "Require an explicit vault path for preparing a new corpus",
+    "Provide a portable result-report generator"
+  ]
+}

@@ -1,0 +1,456 @@
+[
+  {
+    "id": "Q01",
+    "slug": "pkv-connection",
+    "kind": "historical_adaptation",
+    "query": "¿Qué conexión documentada existe entre las reglas/skills de Arnesto y el PKV, y cómo se enruta cada tipo de conocimiento?",
+    "search_terms": [
+      "Arnesto",
+      "personal knowledge vault",
+      "agent routing",
+      "rules",
+      "skills"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/ai/personal-knowledge-vault-agent-routing.md": 2,
+      "_meta/augmentedcode-configuration-adapter.md": 2,
+      "AGENT_GUIDE.md": 1,
+      "projects/personal-knowledge-vault/personal-knowledge-vault.md": 1,
+      "notes/ai/codex-history-operating-patterns.md": 1
+    },
+    "passage_relevance": {
+      "notes/ai/personal-knowledge-vault-agent-routing.md": 2,
+      "_meta/augmentedcode-configuration-adapter.md": 2,
+      "AGENT_GUIDE.md": 1,
+      "projects/personal-knowledge-vault/personal-knowledge-vault.md": 1,
+      "notes/ai/codex-history-operating-patterns.md": 1
+    }
+  },
+  {
+    "id": "Q02",
+    "slug": "pkv-rag-choice",
+    "kind": "historical_adaptation",
+    "query": "¿Qué estrategia de recuperación prescribe hoy el PKV, y bajo qué condición recomienda añadir búsqueda semántica?",
+    "search_terms": [
+      "retrieval",
+      "semantic search",
+      "lexical",
+      "Markdown",
+      "PKV"
+    ],
+    "scope": "partial",
+    "relevance": {
+      "_meta/conventions.md": 2,
+      "_meta/augmentedcode-configuration-adapter.md": 2,
+      "notes/ai/personal-knowledge-vault-agent-routing.md": 1
+    },
+    "passage_relevance": {
+      "_meta/conventions.md": 2,
+      "_meta/augmentedcode-configuration-adapter.md": 2,
+      "notes/ai/personal-knowledge-vault-agent-routing.md": 1
+    }
+  },
+  {
+    "id": "Q03",
+    "slug": "system-design-queue-diagram",
+    "kind": "historical_adaptation",
+    "query": "Con lo que consta en la nota de controles de sobrecarga, representa el flujo productor–cola–consumidor y explica qué límites y responsabilidades sí están documentados.",
+    "search_terms": [
+      "producer",
+      "queue",
+      "consumer",
+      "capacity",
+      "overload"
+    ],
+    "scope": "partial",
+    "relevance": {
+      "notes/architecture/system-design-overload-controls.md": 2
+    },
+    "passage_relevance": {
+      "notes/architecture/system-design-overload-controls.md": 2
+    },
+    "adaptation_extent": "substantial: specific actors replaced by the reusable generic overload-control flow"
+  },
+  {
+    "id": "Q04",
+    "slug": "agent-governance-blueprint",
+    "kind": "historical_adaptation",
+    "query": "¿Qué principios de gobierno de agentes y qué mecanismo de intervención están documentados en el PKV?",
+    "search_terms": [
+      "agent governance",
+      "least privilege",
+      "kill switch",
+      "ownership"
+    ],
+    "scope": "abstain",
+    "relevance": {},
+    "passage_relevance": {}
+  },
+  {
+    "id": "Q05",
+    "slug": "insight-maker-adoption",
+    "kind": "historical_adaptation",
+    "query": "¿Qué recomienda el conocimiento disponible sobre aprender mediante un experimento antes de adoptar una herramienta nueva?",
+    "search_terms": [
+      "learning",
+      "experiment",
+      "adoption",
+      "tool",
+      "decision"
+    ],
+    "scope": "partial",
+    "relevance": {
+      "notes/product-engineering/learning-before-building.md": 2,
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 1,
+      "notes/product-engineering/last-responsible-moment-decisions.md": 1,
+      "notes/ai/evaluation-driven-agentic-engineering.md": 1
+    },
+    "passage_relevance": {
+      "notes/product-engineering/learning-before-building.md": 2,
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 1,
+      "notes/product-engineering/last-responsible-moment-decisions.md": 1
+    },
+    "adaptation_extent": "substantial: Insight Maker choice reduced to a general experiment-first principle"
+  },
+  {
+    "id": "Q06",
+    "slug": "formal-methods-guarantees",
+    "kind": "historical_adaptation",
+    "query": "¿Qué comprueban Dafny y Lean, en qué se diferencia esa garantía de tests o de instrucciones de prompt, y qué queda fuera?",
+    "search_terms": [
+      "Dafny",
+      "Lean",
+      "formal verification",
+      "tests",
+      "guarantees"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/ai/factual-and-formal-verification-of-ai-outputs.md": 2
+    },
+    "passage_relevance": {
+      "notes/ai/factual-and-formal-verification-of-ai-outputs.md": 1
+    }
+  },
+  {
+    "id": "Q07",
+    "slug": "dafny-call-budget-plan",
+    "kind": "historical_adaptation",
+    "query": "¿Qué propiedades propone el experimento de presupuesto de llamadas en Dafny y qué límites explícitos tiene la garantía?",
+    "search_terms": [
+      "Dafny",
+      "call budget",
+      "invariant",
+      "guarantee"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/ai/factual-and-formal-verification-of-ai-outputs.md": 2
+    },
+    "passage_relevance": {
+      "notes/ai/factual-and-formal-verification-of-ai-outputs.md": 1
+    }
+  },
+  {
+    "id": "Q08",
+    "slug": "fic-openspec-choice",
+    "kind": "historical_adaptation",
+    "query": "¿Qué criterio documentado decide cuándo combinar FIC y OpenSpec?",
+    "search_terms": [
+      "FIC",
+      "OpenSpec",
+      "decision",
+      "specification"
+    ],
+    "scope": "abstain",
+    "relevance": {},
+    "passage_relevance": {}
+  },
+  {
+    "id": "Q09",
+    "slug": "solid-hexagonal-guidance",
+    "kind": "historical_adaptation",
+    "query": "¿Qué distinción y ejemplo de TypeScript de arquitectura hexagonal puedo usar como fundamento para una regla de diseño?",
+    "search_terms": [
+      "hexagonal architecture",
+      "TypeScript",
+      "contracts",
+      "SOLID"
+    ],
+    "scope": "partial",
+    "relevance": {
+      "notes/architecture/hexagonal-architecture-mvc-and-typescript-contracts.md": 2,
+      "notes/architecture/software-architecture-patterns.md": 1
+    },
+    "passage_relevance": {
+      "notes/architecture/hexagonal-architecture-mvc-and-typescript-contracts.md": 1,
+      "notes/architecture/software-architecture-patterns.md": 1
+    }
+  },
+  {
+    "id": "Q10",
+    "slug": "vitest-framework-choice",
+    "kind": "historical_adaptation",
+    "query": "¿Por qué se eligió Vitest en el proyecto de práctica y qué diferencia hay con el framework usado en Event Listings?",
+    "search_terms": [
+      "Vitest",
+      "testing",
+      "framework",
+      "choice"
+    ],
+    "scope": "abstain",
+    "relevance": {},
+    "passage_relevance": {}
+  },
+  {
+    "id": "Q11",
+    "slug": "cartoon-modern-reference",
+    "kind": "historical_adaptation",
+    "query": "¿Qué lenguaje visual, movimiento y técnicas dejé como referencias para futuros diseños?",
+    "search_terms": [
+      "visual",
+      "design",
+      "animation",
+      "pixelated",
+      "scroll",
+      "CSS"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/design/cartoon-modern-graphic-reference.md": 2
+    },
+    "passage_relevance": {
+      "notes/design/cartoon-modern-graphic-reference.md": 2
+    }
+  },
+  {
+    "id": "Q12",
+    "slug": "review-capacity-current-status",
+    "kind": "historical_adaptation",
+    "query": "¿Cuál es el estado actual de Review Capacity y qué falta por completar?",
+    "search_terms": [
+      "Review Capacity",
+      "current",
+      "status",
+      "Agent Systems Lab"
+    ],
+    "scope": "abstain",
+    "relevance": {},
+    "passage_relevance": {}
+  },
+  {
+    "id": "Q13",
+    "slug": "madai-slide-summary",
+    "kind": "historical_adaptation",
+    "query": "¿Qué enseñaban las diapositivas de MadAI compartidas el 22 de octubre de 2026 y qué aprendizajes aportan a Agent Systems Lab?",
+    "search_terms": [
+      "MadAI",
+      "slides",
+      "learning",
+      "evidence"
+    ],
+    "scope": "abstain",
+    "relevance": {},
+    "passage_relevance": {}
+  },
+  {
+    "id": "Q14",
+    "slug": "token-productivity",
+    "kind": "new_practical_query",
+    "query": "¿Por qué consumir más tokens de IA no demuestra que un equipo sea más productivo?",
+    "search_terms": [
+      "AI",
+      "tokens",
+      "productivity",
+      "metrics",
+      "business value"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/engineering-management/token-metrics-are-the-new-lines-of-code.md": 2,
+      "notes/ai/eventbrite-supply-ai-adoption-dora-measurement-pack.md": 1,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 1,
+      "notes/agile/agile-values-surviving-ai-disruption.md": 2,
+      "notes/philosophy/the-invisible-human-labor-behind-generative-ai.md": 2
+    },
+    "passage_relevance": {
+      "notes/ai/eventbrite-supply-ai-adoption-dora-measurement-pack.md": 1,
+      "notes/engineering-management/token-metrics-are-the-new-lines-of-code.md": 2,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 1,
+      "notes/agile/agile-values-surviving-ai-disruption.md": 2,
+      "notes/philosophy/the-invisible-human-labor-behind-generative-ai.md": 2
+    }
+  },
+  {
+    "id": "Q15",
+    "slug": "permanent-software-cost",
+    "kind": "new_practical_query",
+    "query": "¿Qué costes seguimos pagando después de entregar una funcionalidad y cómo decidir qué eliminar?",
+    "search_terms": [
+      "software",
+      "permanent cost",
+      "maintenance",
+      "remove",
+      "features"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/product-engineering/basal-cost-of-software.md": 2,
+      "notes/product-engineering/less-software-more-impact.md": 2,
+      "notes/agile/software-development-as-cooperative-game.md": 1,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2,
+      "notes/product-engineering/software-as-cultivation.md": 2,
+      "notes/product-engineering/software-degradation-and-recovery.md": 1
+    },
+    "passage_relevance": {
+      "notes/product-engineering/basal-cost-of-software.md": 2,
+      "notes/product-engineering/less-software-more-impact.md": 2,
+      "notes/agile/software-development-as-cooperative-game.md": 1,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2,
+      "notes/product-engineering/software-as-cultivation.md": 2,
+      "notes/product-engineering/software-degradation-and-recovery.md": 1
+    }
+  },
+  {
+    "id": "Q16",
+    "slug": "decision-timing",
+    "kind": "new_practical_query",
+    "query": "¿Cuándo conviene posponer una decisión de arquitectura y cuándo hacer un experimento reversible?",
+    "search_terms": [
+      "decision",
+      "architecture",
+      "reversible",
+      "irreversible",
+      "delay",
+      "experiment"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/product-engineering/last-responsible-moment-decisions.md": 2,
+      "notes/architecture/architecture-as-significant-design-decisions.md": 2,
+      "notes/philosophy/decision-making-frameworks.md": 1,
+      "notes/listings/eventbrite-engineering-decisions.md": 1,
+      "notes/listings/listings-out-of-core-evidence.md": 1,
+      "notes/listings/listings-platform-modernization.md": 1
+    },
+    "passage_relevance": {
+      "notes/product-engineering/last-responsible-moment-decisions.md": 2,
+      "notes/architecture/architecture-as-significant-design-decisions.md": 2,
+      "notes/philosophy/decision-making-frameworks.md": 1,
+      "notes/listings/eventbrite-engineering-decisions.md": 1,
+      "notes/listings/listings-out-of-core-evidence.md": 1,
+      "notes/listings/listings-platform-modernization.md": 1
+    }
+  },
+  {
+    "id": "Q17",
+    "slug": "quality-speed",
+    "kind": "new_practical_query",
+    "query": "¿Qué prácticas permiten entregar rápido de forma sostenible sin acumular fallos y retrabajo?",
+    "search_terms": [
+      "quality",
+      "sustainable",
+      "delivery",
+      "speed",
+      "defects",
+      "rework"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/product-engineering/quality-as-sustainable-speed.md": 2,
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 2,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2,
+      "notes/product-engineering/less-software-more-impact.md": 1,
+      "notes/engineering-management/engineering-management-operating-principles.md": 1,
+      "notes/ai/spec-driven-development-for-ai-coding-agents.md": 1,
+      "notes/product-engineering/basal-cost-of-software.md": 1,
+      "notes/ai/human-understanding-is-the-bottleneck.md": 1,
+      "notes/product-engineering/empowered-product-teams.md": 1
+    },
+    "passage_relevance": {
+      "notes/product-engineering/quality-as-sustainable-speed.md": 2,
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 2,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2,
+      "notes/product-engineering/less-software-more-impact.md": 1,
+      "notes/engineering-management/engineering-management-operating-principles.md": 1,
+      "notes/ai/spec-driven-development-for-ai-coding-agents.md": 1,
+      "notes/product-engineering/basal-cost-of-software.md": 1,
+      "notes/ai/human-understanding-is-the-bottleneck.md": 1,
+      "notes/product-engineering/empowered-product-teams.md": 1
+    }
+  },
+  {
+    "id": "Q18",
+    "slug": "deployment-release",
+    "kind": "new_practical_query",
+    "query": "¿En qué se diferencian despliegue y lanzamiento, y cómo ayuda la entrega continua a aprender?",
+    "search_terms": [
+      "deployment",
+      "release",
+      "continuous delivery",
+      "learning"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 2,
+      "notes/product-engineering/learning-before-building.md": 1,
+      "notes/product-engineering/empowered-product-teams.md": 1
+    },
+    "passage_relevance": {
+      "notes/product-engineering/continuous-delivery-as-learning-loop.md": 2,
+      "notes/product-engineering/learning-before-building.md": 1,
+      "notes/product-engineering/empowered-product-teams.md": 1
+    }
+  },
+  {
+    "id": "Q19",
+    "slug": "team-autonomy",
+    "kind": "new_practical_query",
+    "query": "¿Qué necesita un equipo para tener autonomía real sobre un producto, incluida su operación y mantenimiento?",
+    "search_terms": [
+      "team",
+      "autonomy",
+      "product",
+      "ownership",
+      "operation",
+      "maintenance"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "notes/product-engineering/empowered-product-teams.md": 2,
+      "notes/product-engineering/lean-xp-product-engineering.md": 1,
+      "notes/product-engineering/basal-cost-of-software.md": 1,
+      "notes/product-engineering/software-degradation-and-recovery.md": 1,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2
+    },
+    "passage_relevance": {
+      "notes/product-engineering/empowered-product-teams.md": 2,
+      "notes/product-engineering/lean-xp-product-engineering.md": 1,
+      "notes/product-engineering/basal-cost-of-software.md": 1,
+      "notes/product-engineering/software-degradation-and-recovery.md": 1,
+      "notes/engineering-management/ai-lean-engineering-operating-principles.md": 2
+    }
+  },
+  {
+    "id": "Q20",
+    "slug": "notebooklm-promotion",
+    "kind": "new_practical_query",
+    "query": "¿Cuándo puede un resumen de NotebookLM pasar del inbox a conocimiento duradero del PKV?",
+    "search_terms": [
+      "NotebookLM",
+      "digest",
+      "inbox",
+      "promotion",
+      "review",
+      "durable"
+    ],
+    "scope": "answerable",
+    "relevance": {
+      "AGENT_GUIDE.md": 2,
+      "README.md": 2,
+      "_meta/promotion-policy.md": 2
+    },
+    "passage_relevance": {}
+  }
+]

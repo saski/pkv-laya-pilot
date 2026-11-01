@@ -1,0 +1,517 @@
+[
+  {
+    "path": "AGENT_GUIDE.md",
+    "sha256": "a8482b6ed2cf70f45c5165635d8355ba798438b1d95072388d1983968ad8109f",
+    "bytes": 4019
+  },
+  {
+    "path": "README.md",
+    "sha256": "cdfbf1b500762f32ee32a12c168efd1a44d32a05a91366ff7c6ef2834bff9c48",
+    "bytes": 8462
+  },
+  {
+    "path": "_meta/augmentedcode-configuration-adapter.md",
+    "sha256": "1c4bbf86ffda31851f5112c3c122fe8e8974d0ac2ad199a54a5bd8ecf540492d",
+    "bytes": 3239
+  },
+  {
+    "path": "_meta/chatgpt-curation-log.md",
+    "sha256": "8c16320a7d28969fd7b9653da5026c9ef36b4c750f72c86fc9253d25d37db6a6",
+    "bytes": 1463
+  },
+  {
+    "path": "_meta/conventions.md",
+    "sha256": "7b67a4d5a3f1cb00cec23120655470a4d6c59cfb07fafbb7deceda569df24e68",
+    "bytes": 1467
+  },
+  {
+    "path": "_meta/maintenance-checklist.md",
+    "sha256": "1686a641fc5c619ce9c32d6bbf45368dcd39d3ce20549f2b748a4b32896529e3",
+    "bytes": 1579
+  },
+  {
+    "path": "_meta/promotion-policy.md",
+    "sha256": "3f270209fb1c3f5fae07c3e6060041505e3146d57dc8566e2e69a04bfad01e80",
+    "bytes": 1953
+  },
+  {
+    "path": "_meta/source-manifest.md",
+    "sha256": "293137c2d1554b444cda08f85a95bfe66952a90e415adb2c4688f5b35faf9323",
+    "bytes": 80009
+  },
+  {
+    "path": "_meta/taxonomy.md",
+    "sha256": "a43d042722fb50ff8bb4572e430f8cbc8696d0438be7abdc1b0d7dd31abb9a93",
+    "bytes": 851
+  },
+  {
+    "path": "index.md",
+    "sha256": "9830d91500052ba37c8120185161a83990f459ce405d6842702c6b2012d48b73",
+    "bytes": 7422
+  },
+  {
+    "path": "maps/ai.md",
+    "sha256": "1abf755d796f75071b840cc353117796dcedad3f7657e8b336bb9c961a90797b",
+    "bytes": 2817
+  },
+  {
+    "path": "maps/career.md",
+    "sha256": "363ac4a718b662d49af968bbada3b0c04b85d8294f053a399c8fdb3be86ddaad",
+    "bytes": 1598
+  },
+  {
+    "path": "maps/home.md",
+    "sha256": "aac189bfc59bbefd409f97ceab8e9ac8dd84bbb0e17ab987b59007fe54c157f1",
+    "bytes": 3316
+  },
+  {
+    "path": "maps/leadership.md",
+    "sha256": "9cc83f30f17bf7a6cecca7312a5f763c37cc6021bf606c0ee97c45cdd0ec692d",
+    "bytes": 1407
+  },
+  {
+    "path": "maps/listings.md",
+    "sha256": "79d10a9d182b7403f2fb0d368cf8aba0bdc83714fbb002da6bad23636009ef8e",
+    "bytes": 1014
+  },
+  {
+    "path": "maps/product-engineering.md",
+    "sha256": "1044d6b69cc712ca46a0dfde535f9810596997d69893a80e3a1b60a5be17644b",
+    "bytes": 2605
+  },
+  {
+    "path": "notes/agile/agile-values-surviving-ai-disruption.md",
+    "sha256": "2061afb46a18215f8ecc00a02e7e7154f820daa43ceacabc8d2bd1a8b93af195",
+    "bytes": 2765
+  },
+  {
+    "path": "notes/agile/software-development-as-cooperative-game.md",
+    "sha256": "1abe8a10f2ae22449e83b995d8b3b33df23fcea74a474ecc898cc42aaf564d88",
+    "bytes": 6798
+  },
+  {
+    "path": "notes/ai/affordability-vs-possibility-unlocks.md",
+    "sha256": "1f95ffcc4f1bf2acfc2f52370914e599d668c7c8d8fd5bd3a6cee4ac25f96fe7",
+    "bytes": 2417
+  },
+  {
+    "path": "notes/ai/ai-capability-progress-outpaces-social-understanding.md",
+    "sha256": "ec8fae11277eb619ff6597472c01f90dbabaa80116e55a7a3e8157a0ef3dff88",
+    "bytes": 2865
+  },
+  {
+    "path": "notes/ai/ai-layoffs-and-the-productivity-paradox.md",
+    "sha256": "7aa83d47aa31944f43b3778e1165ed41398d11ee90122f2e01fb05a69457d031",
+    "bytes": 2346
+  },
+  {
+    "path": "notes/ai/codex-history-operating-patterns.md",
+    "sha256": "4d6a0c2aa5571c406c195e95fea321d27351a1933b4d412f01b9bea5ec395dac",
+    "bytes": 5425
+  },
+  {
+    "path": "notes/ai/evaluation-driven-agentic-engineering.md",
+    "sha256": "60cb6e9b0e4031e0455f2075582be85716ed7cce14d4190d78605b6412e10761",
+    "bytes": 3132
+  },
+  {
+    "path": "notes/ai/eventbrite-supply-ai-adoption-dora-measurement-pack.md",
+    "sha256": "f6bc7bcb9332d9215bfdd4380e864a6421e6a8e49dc16e55ca366532dcfab2a9",
+    "bytes": 5110
+  },
+  {
+    "path": "notes/ai/factual-and-formal-verification-of-ai-outputs.md",
+    "sha256": "4352720068d5a2d52216e2bea65e5bf2f7f5c74ed6b7fd3e43460b1c414d2e19",
+    "bytes": 12184
+  },
+  {
+    "path": "notes/ai/human-understanding-is-the-bottleneck.md",
+    "sha256": "cbf850e1fd282e40ae6d3af06eee0c065fb22fa4c1a9daa8a0a38e53e5dd236f",
+    "bytes": 3955
+  },
+  {
+    "path": "notes/ai/in-ai-we-trust-madrid-2026-10-27.md",
+    "sha256": "0813a884ecb3e046fafcefdc87c6476362897be64206f283e6983ddab791b3e6",
+    "bytes": 7721
+  },
+  {
+    "path": "notes/ai/incident-coordinator-agent.md",
+    "sha256": "04f0640ed6f7883d5cc6b5d17247db94f9c2b3a3c000a993fea898d9cb28cf44",
+    "bytes": 2412
+  },
+  {
+    "path": "notes/ai/personal-knowledge-vault-agent-routing.md",
+    "sha256": "64ba386f49ea4e211b352db8f4a1d84686fec551a70199677300c77df75f3d26",
+    "bytes": 2436
+  },
+  {
+    "path": "notes/ai/spec-driven-development-for-ai-coding-agents.md",
+    "sha256": "6f2f684bd35bb8b0b21c7767de4219e1cf66beab0b85d88df4cdbd3c4f07cb47",
+    "bytes": 3871
+  },
+  {
+    "path": "notes/ai/the-end-of-human-readable-code.md",
+    "sha256": "ede6f762e5f3f0293b89f61fea453bab2e6142d0a8064f95167c667f79230a41",
+    "bytes": 2694
+  },
+  {
+    "path": "notes/ai/the-human-premium-in-ai-services.md",
+    "sha256": "e7c44970a2601b1ac8ebe7a6a20c060e0e004f426998c62f9991452c6aec131a",
+    "bytes": 2474
+  },
+  {
+    "path": "notes/architecture/architecture-as-significant-design-decisions.md",
+    "sha256": "aecf203d924b49c7b4811f620f3ea337402bf4e09d4a11d2a64befb6272f32b8",
+    "bytes": 2753
+  },
+  {
+    "path": "notes/architecture/hexagonal-architecture-mvc-and-typescript-contracts.md",
+    "sha256": "3ac696fde112b7ccac67feaf265b3320e10eeb1d3f9c2d1e70a2987c6983d45f",
+    "bytes": 7218
+  },
+  {
+    "path": "notes/architecture/software-architecture-patterns.md",
+    "sha256": "7f87695290d1ab017bcbca11aaddc4b21b708c95d5472d332d1f5539aafffe65",
+    "bytes": 5244
+  },
+  {
+    "path": "notes/architecture/system-design-overload-controls.md",
+    "sha256": "8ef49419680ecd3df33a5dd65624db09e89591893b94e2f584ee7720223b3ff3",
+    "bytes": 6618
+  },
+  {
+    "path": "notes/career/ai-leadership-practice-team-and-governance.md",
+    "sha256": "51b14e9d078bdda3bf0b0fb8f1016ede48036cf844efb11aa9d389270927e6ab",
+    "bytes": 3041
+  },
+  {
+    "path": "notes/career/eventbrite-career-impact-evidence.md",
+    "sha256": "d57a0ca840256900232aa97fff2ac3a2b573a224f57ab7519897cdbd5c99ea76",
+    "bytes": 8448
+  },
+  {
+    "path": "notes/career/eventbrite-career-impact.md",
+    "sha256": "1589f2cc65ae5ebd93956e851546e5a7953c582f40783377e25c02b1b71e9f73",
+    "bytes": 4723
+  },
+  {
+    "path": "notes/career/professional-profile-and-values.md",
+    "sha256": "9f7ef454858c5f38be2af29a74736cd087f7930d69fad178dfd74dc801418a73",
+    "bytes": 3282
+  },
+  {
+    "path": "notes/career/senior-engineering-leadership-resume-positioning.md",
+    "sha256": "0da0f6ab7a2239e0859e079b94d67610546028f98a9afca521a293b618391033",
+    "bytes": 5383
+  },
+  {
+    "path": "notes/career/technological-white-raven-positioning.md",
+    "sha256": "0c341073c70affe93bf755b3592f646f0c7310ab4d0e94a8bc8af96506b51c78",
+    "bytes": 3429
+  },
+  {
+    "path": "notes/design/cartoon-modern-graphic-reference.md",
+    "sha256": "7d391c8829e6b34eac3645b3df6db0ad9cb3014cfe6616ff21259ecad399e935",
+    "bytes": 6059
+  },
+  {
+    "path": "notes/economics/demand-elasticity-in-ai-markets.md",
+    "sha256": "fdf91b951bfabfdcb24d20a54ab7c221ac920752ddf23e778bf11494866f3235",
+    "bytes": 2300
+  },
+  {
+    "path": "notes/engineering-management/ai-lean-engineering-operating-principles.md",
+    "sha256": "65a7aa5180298fb1ecb9f17b24d5d09b16efad8184167665d21303d4037e4c82",
+    "bytes": 6654
+  },
+  {
+    "path": "notes/engineering-management/engineering-management-operating-principles.md",
+    "sha256": "e5c0f0b99a74a2bae7752c1993e137ddb049146a2f7419be03e279fccb4b963d",
+    "bytes": 3735
+  },
+  {
+    "path": "notes/engineering-management/eventbrite-manager-feedback-evidence.md",
+    "sha256": "fb8dbfa46a067bd3be980a1a184554838c039dcbdfc8feb07474a0aa08156f45",
+    "bytes": 12196
+  },
+  {
+    "path": "notes/engineering-management/mentoring-juniors-in-the-ai-era.md",
+    "sha256": "591b9218d0035d31735813b669ae6011d630cd64d88c9dcead3820ce5bd129e4",
+    "bytes": 2070
+  },
+  {
+    "path": "notes/engineering-management/promotion-readiness-evidence-gaps.md",
+    "sha256": "9302c64a832d8646655d1ffdc3e3d6a725c9ece8b840ede3e1785edc684349b2",
+    "bytes": 33925
+  },
+  {
+    "path": "notes/engineering-management/token-metrics-are-the-new-lines-of-code.md",
+    "sha256": "294cbfd981efd2c9b871bb68adf8039250113c47d5330d1dd74c3a28de13143a",
+    "bytes": 2360
+  },
+  {
+    "path": "notes/future-of-work/emergent-job-categories-in-ai-ecosystems.md",
+    "sha256": "d993c8a2c52ddea91f0a845168da742522e923ce1a275cc8847c08b4d932c92a",
+    "bytes": 2386
+  },
+  {
+    "path": "notes/healthcare/continuous-care-as-an-ai-possibility-unlock.md",
+    "sha256": "2b8b4b51c8690cf153fcc81ba55389fd7eaccd4ceab1bd33fe56b40edc582b9b",
+    "bytes": 2557
+  },
+  {
+    "path": "notes/knowledge-management/gmail-takeout-purge.md",
+    "sha256": "3a63d233e918fb3d5c856a7714496d110b8aaa9724f6da077d865a4a7d61c9b0",
+    "bytes": 5519
+  },
+  {
+    "path": "notes/leadership/earned-trust-and-staff-to-em-attention-shift.md",
+    "sha256": "14af5817623e97799a0e218cf0d8844c260e698e67296325e05f1ba342404410",
+    "bytes": 2502
+  },
+  {
+    "path": "notes/leadership/stress-as-a-signal-of-inaction.md",
+    "sha256": "aa52d0529bfea84d351d3877f33c7a6cd4f14f0680719493e05583d951b2f4d5",
+    "bytes": 3865
+  },
+  {
+    "path": "notes/leadership/the-biggest-shit-question.md",
+    "sha256": "35c1e12fddbab41dea894e0d0079977fc3ae1f91cb611a0be52ccc43eadc86e8",
+    "bytes": 2490
+  },
+  {
+    "path": "notes/listings/eventbrite-engineering-decisions.md",
+    "sha256": "41501f3e3f29e42b120e9a96722cbd5313b109d2594a2949b33c7e275d31f8ff",
+    "bytes": 22474
+  },
+  {
+    "path": "notes/listings/listings-cicd-maturity.md",
+    "sha256": "77dbae0c55d110db65ea560e2686f16ad07859cf17b0ce72c20e858e33523fac",
+    "bytes": 3680
+  },
+  {
+    "path": "notes/listings/listings-incident-leadership.md",
+    "sha256": "fc952c37f96b36689ab9432fcc826dfd1d3f26b92b8318d598f78967e27902b4",
+    "bytes": 3372
+  },
+  {
+    "path": "notes/listings/listings-operational-resilience-evidence.md",
+    "sha256": "67a35d032825f17e562150568c13b521b2b0e6b9287b9ee1dbdda27011b0b976",
+    "bytes": 6156
+  },
+  {
+    "path": "notes/listings/listings-out-of-core-evidence.md",
+    "sha256": "19ed6f504eff9a499d59d46252d3f4deaac7cc9633ee7f38ad0bf7df434082f3",
+    "bytes": 8324
+  },
+  {
+    "path": "notes/listings/listings-performance-and-cwv.md",
+    "sha256": "fd6d4fdb28124098b1f89927fc7e55f00e8d2a1ca7b90edbda0aeca9ba6664ed",
+    "bytes": 4081
+  },
+  {
+    "path": "notes/listings/listings-platform-modernization.md",
+    "sha256": "cb9be81464c1acc0fc73966d3235e5d30c98aa2ddba73d6169c1af80c154dc90",
+    "bytes": 4957
+  },
+  {
+    "path": "notes/listings/listings-sre-incident-history.md",
+    "sha256": "acf1c1391f259daff5b4a33c762c79227587a573ee7092a079ebeb07f8275d20",
+    "bytes": 9320
+  },
+  {
+    "path": "notes/org-design/ai-as-middle-management-information-routers.md",
+    "sha256": "1ffbe6605343c53d5c096600f1c411caf7bfbe4e35aa109d0785cae1457df0af",
+    "bytes": 2564
+  },
+  {
+    "path": "notes/philosophy/decision-making-frameworks.md",
+    "sha256": "cc873654ac49c0574afb8a532bc1e8814879f1822c61c62909a099bb55ebf888",
+    "bytes": 1730
+  },
+  {
+    "path": "notes/philosophy/finite-time-as-an-attention-filter.md",
+    "sha256": "8084ee651b33dcff65a595f619bc8286ee758cd8c3e60a58acaf3beadf47c1f6",
+    "bytes": 4543
+  },
+  {
+    "path": "notes/philosophy/the-invisible-human-labor-behind-generative-ai.md",
+    "sha256": "014744f0c76c777b5d071f9cbe176514f9ea5672f36e05a9b28e8e5798308087",
+    "bytes": 2216
+  },
+  {
+    "path": "notes/philosophy/the-lump-of-labor-fallacy-in-automation.md",
+    "sha256": "caa97287fd27fe2dd4e34a5ee4638f20ba6e689e2910e2722760700ca6b7c2cb",
+    "bytes": 1946
+  },
+  {
+    "path": "notes/philosophy/the-sherpa-focus-technique.md",
+    "sha256": "c26816c3e6847dfd6714189a24f869fedd6bbf1ad3477d969dbb48c5124ae401",
+    "bytes": 2162
+  },
+  {
+    "path": "notes/philosophy/writing-as-a-tool-for-thinking.md",
+    "sha256": "2dba43080b46de2b045af4eecf17710ce62e726ddcc6de97f77753ad57e40c34",
+    "bytes": 2612
+  },
+  {
+    "path": "notes/product-engineering/basal-cost-of-software.md",
+    "sha256": "cd771229be14b4dd8daa700f770b98525cae507340030821e5935092c96e31e8",
+    "bytes": 2287
+  },
+  {
+    "path": "notes/product-engineering/beyond-the-ide-new-coding-interfaces.md",
+    "sha256": "919899547b15176fda716cca3d474a5fd4aa81a024fbe111ddd4267a659fc2b4",
+    "bytes": 2742
+  },
+  {
+    "path": "notes/product-engineering/continuous-delivery-as-learning-loop.md",
+    "sha256": "c649965daa4a09f89afd23776668f591f361046eed19dbf98113cdea4f0044b8",
+    "bytes": 1837
+  },
+  {
+    "path": "notes/product-engineering/conversational-interfaces-for-codebases.md",
+    "sha256": "e113b741ad959ad8afdbd8c6ba68c07c984c8abc2034c7ecb7a5c860f9597439",
+    "bytes": 2807
+  },
+  {
+    "path": "notes/product-engineering/designing-for-the-human-premium.md",
+    "sha256": "725f771a2a1d1956940f3cd8df4e5216e951e4826dffd63034f6efb17040ae77",
+    "bytes": 2488
+  },
+  {
+    "path": "notes/product-engineering/empowered-product-teams.md",
+    "sha256": "a93a238a468d30f044222462f01f88c1dea3884f1000bdf038a4349be5685c0d",
+    "bytes": 1933
+  },
+  {
+    "path": "notes/product-engineering/last-responsible-moment-decisions.md",
+    "sha256": "9d4a7bc8b6017b1e7abb210b34ed9858286909d81a482e8cfd672857dd989708",
+    "bytes": 1683
+  },
+  {
+    "path": "notes/product-engineering/lean-xp-product-engineering.md",
+    "sha256": "8062c1f65e5c1c9e47467e82edd71fcedba9f8d9d71ca89f2f2d60c49c57b964",
+    "bytes": 1830
+  },
+  {
+    "path": "notes/product-engineering/learning-before-building.md",
+    "sha256": "9f187d77870f7b89464615c96ffd4e18de76bceb17ae1fb1b9eda77fdbd328e0",
+    "bytes": 1921
+  },
+  {
+    "path": "notes/product-engineering/less-software-more-impact.md",
+    "sha256": "cc9c02c76d5fdf3ca669e2ba7663fe9f95ddabf7af939c36a3c6769e750a959e",
+    "bytes": 3463
+  },
+  {
+    "path": "notes/product-engineering/optimize-the-whole.md",
+    "sha256": "7d12f5ca84bf51433aab56eb664e4c8fb1e361f8e37d88e4764369c346c1df22",
+    "bytes": 1650
+  },
+  {
+    "path": "notes/product-engineering/quality-as-sustainable-speed.md",
+    "sha256": "29076ebffb5c2b0eb789f67ab3655dc8728ebf7b8a863db79d54a400bd7de8c7",
+    "bytes": 2370
+  },
+  {
+    "path": "notes/product-engineering/software-as-cultivation.md",
+    "sha256": "7dcf5ed6bef0217e670be975b7e9c86ae7cf1c51ecb18064938efc966f0d9465",
+    "bytes": 1929
+  },
+  {
+    "path": "notes/product-engineering/software-degradation-and-recovery.md",
+    "sha256": "e3a3557899c062d4e5a0135ab6f4a10aa594208385d8f7718c6a3845702c66bd",
+    "bytes": 1867
+  },
+  {
+    "path": "portfolio/README.md",
+    "sha256": "80163eacfd1d6d367ae358f74c350d9707701d9d459ed54e7c454f26d708f0ef",
+    "bytes": 1558
+  },
+  {
+    "path": "portfolio/communication-style.md",
+    "sha256": "5c0c7f51e63c97d63b2c24dc6bf80760dbfac824f6cb41a2827a7af9107ba5db",
+    "bytes": 1405
+  },
+  {
+    "path": "portfolio/current-projects.md",
+    "sha256": "015243530339285899ec2c1c89eebec033dcdea642bbff54ee8e35977ec1ccfc",
+    "bytes": 5237
+  },
+  {
+    "path": "portfolio/decision-log.md",
+    "sha256": "0c076af5053db3051aa19078fe0959a302125323930dbe5cf33c53540e0fa35d",
+    "bytes": 2982
+  },
+  {
+    "path": "portfolio/domain-knowledge.md",
+    "sha256": "0d81e5ec64b26d50abfedc568c4272d6c49754c235bb0bd1b3d42d91b961cca5",
+    "bytes": 2696
+  },
+  {
+    "path": "portfolio/goals-and-priorities.md",
+    "sha256": "754b58f41330f1f308a9eb1905b82d5fa88fa87020d1c1ca5d40ce0611faebd6",
+    "bytes": 3293
+  },
+  {
+    "path": "portfolio/identity.md",
+    "sha256": "e76b65c94e8db91a00899e9e407e2acfbe3fdceb5cc32321f886be4f345b8202",
+    "bytes": 5115
+  },
+  {
+    "path": "portfolio/preferences-and-constraints.md",
+    "sha256": "c0a484d3de28efbd431a062a8e5715c66bb75ef1d6662f7fdf8b822baac3e5d7",
+    "bytes": 4008
+  },
+  {
+    "path": "portfolio/role-and-responsibilities.md",
+    "sha256": "9cc1524407fc07875672f0cac91c9a2acd2e58abf290afe79cd29f6fae7893ef",
+    "bytes": 5515
+  },
+  {
+    "path": "portfolio/team-and-relationships.md",
+    "sha256": "85de584e5271e1d639689ac98377820b0d1bda01f23347a126b2fa56971b55c6",
+    "bytes": 3540
+  },
+  {
+    "path": "portfolio/tools-and-systems.md",
+    "sha256": "3db99c37d66335b0b2927035d0b47ba3dad1b76ce01ad5614e0321fbfd882f34",
+    "bytes": 2778
+  },
+  {
+    "path": "projects/mybroworld/mybroworld.md",
+    "sha256": "b10ac69b79926e866be56663c67eb308339584c732486959fcc7e3c31b0b40b8",
+    "bytes": 4648
+  },
+  {
+    "path": "projects/obsidian-pilot/agent-systems-lab.md",
+    "sha256": "a0b530f5bad48b60349de9687a869902ed6b1e84cd0fd1318b3438f1f46128b1",
+    "bytes": 1742
+  },
+  {
+    "path": "projects/obsidian-pilot/arnesto.md",
+    "sha256": "58763af080111acc30bda2d47b31c27839303c95fea22c939eac050e5c1a9917",
+    "bytes": 1543
+  },
+  {
+    "path": "projects/obsidian-pilot/career-preparation.md",
+    "sha256": "a6eff7c47c4b54082d74fb531f89246457beba4b4a78e1a13d5467d677198483",
+    "bytes": 1903
+  },
+  {
+    "path": "projects/obsidian-pilot/learning-research.md",
+    "sha256": "68a599c225cbba69c04316eae95041f2acf7e32e7ae84fbd95fffee3821bdb70",
+    "bytes": 1616
+  },
+  {
+    "path": "projects/obsidian-pilot/pilot-guide.md",
+    "sha256": "d5a24e028a0ef7aa3d6f990b79bfd84e136d82d3d02f89b7400161e3ef3607ff",
+    "bytes": 5189
+  },
+  {
+    "path": "projects/personal-knowledge-vault/personal-knowledge-vault.md",
+    "sha256": "dfada76150166f0651b74c95e2ce01bb89da8ebd17ab3ac59d3f818f853a2e97",
+    "bytes": 4548
+  }
+]
