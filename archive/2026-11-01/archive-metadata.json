@@ -1,7 +1,7 @@
 {
   "date": "2026-11-01",
   "purpose": "Retain relevant pilot code and evidence before uninstalling the local environment",
-  "visibility": "private",
+  "visibility_at_initial_archive": "private",
   "source_content_included": false,
   "raw_conversations_included": false,
   "excluded": [
